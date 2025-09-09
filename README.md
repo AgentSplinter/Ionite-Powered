@@ -14,7 +14,7 @@
 
   * **Wuffram Alloy** – exceptionally durable and used in high-tier machines.
   * **Steel** – a strong mid-tier metal for tools, machines, and components.
-  * **Brass** – useful in machinery and intermediate crafting.
+  * **Copper Alloy** – useful in machinery and intermediate crafting.
   * **Tungsten** – a high-strength material with late-game applications.
 
 * **Cell System**
