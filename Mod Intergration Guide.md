@@ -28,14 +28,14 @@ This mod includes a system that displays the **element symbol** in certain item 
 
 2. **Add a Localization Key for the provided item**
    ```
-   element.bwc.%item_registry_name%
+   element.bwc.%element_name%
    ```
 
    **Example:**
 
    ```properties
-   element.bwc.iron_ingot=Fe
-   element.bwc.steel_ingot=St
+   element.bwc.iron=Fe
+   element.bwc.steel=FeC
    ```
 
 3. **Done!**
