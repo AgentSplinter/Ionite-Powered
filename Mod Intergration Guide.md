@@ -28,7 +28,7 @@ This mod includes a system that displays the **element symbol** in certain item 
 
 2. **Add a Localization Key for the provided item**
    ```
-   element.bwc.%element_name%
+   element.bwc.%registry_name%
    ```
 
    **Example:**
