@@ -34,8 +34,8 @@ This mod includes a system that displays the **element symbol** in certain item 
    **Example:**
 
    ```properties
-   element.bwc.iron=Fe
-   element.bwc.steel=FeC
+   element.bwc.iron_ingot=Fe
+   element.bwc.steel_ingot=FeC
    ```
 
 3. **Done!**
