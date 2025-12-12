@@ -2,7 +2,7 @@
 
 ## **Materials and Components**
 
-The primary purpose of this mod is to provide a [standardized set of commonly needed items](https://imgs.xkcd.com/comics/standards_2x.png). 
+The primary purpose of this mod is to provide a [set of commonly needed items](https://imgs.xkcd.com/comics/standards_2x.png). 
 This helps prevent situations where multiple mods add the same items repeatedly.
 
 If you don’t want to be “the millionth mod” adding steel, copper, or similar materials, you can simply **add a dependency on this mod** and let it handle those items for you.
