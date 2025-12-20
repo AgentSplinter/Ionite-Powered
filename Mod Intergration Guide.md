@@ -10,6 +10,9 @@ If you don’t want to be “the millionth mod” adding steel, copper, or simil
 > **Note:**
 > All items and blocks are tagged using the **common tag namespace**, so you don’t need to reference them directly. Simply use the appropriate tag instead.
 
+## **Cell system**
+WIP
+
 ## **Element / Periodic Table Key System** (Version 1.1.9c)
 
 This mod includes a system that displays the **element symbol** in certain item descriptions. You can extend this system for your own items by following these steps:
@@ -27,7 +30,7 @@ This mod includes a system that displays the **element symbol** in certain item 
    * `c:chemicals`
 
 2. **Add a Localization Key for the provided item**
-   ```
+   ```properties
    element.bwc.%registry_name%
    ```
 
@@ -42,9 +45,14 @@ This mod includes a system that displays the **element symbol** in certain item 
    Once your item is tagged and the translation key exists, the tooltip will automatically display the element symbol.
 
 
+## Recipe Overwrite (version 1.1.10)
+Allows you to quickly and easily overwrite any recipe without leaving traces in JEI or other recipe display mods.
 
-
-## **Cell system**
-WIP
+```json
+{
+  "type": "bwc:remove_recipe",
+  "return": true
+}
+```
 
 ## More to come once 1.2 is out
