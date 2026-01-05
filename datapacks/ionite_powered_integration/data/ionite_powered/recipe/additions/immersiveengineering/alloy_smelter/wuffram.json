@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:alloy",
+  "input0": {
+    "basePredicate": {
+      "tag": "c:storage_blocks/tungsten"
+    },
+    "count": 5
+  },
+  "input1": {
+    "basePredicate": {
+      "tag": "c:ingots/netherite"
+    },
+      "count": 4
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:raw_materials/wuffram"
+    },
+    "count": 1
+  }
+}

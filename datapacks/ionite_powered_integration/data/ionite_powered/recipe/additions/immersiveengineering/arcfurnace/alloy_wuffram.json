@@ -1,0 +1,39 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "basePredicate": {
+        "tag": "c:storage_blocks/tungsten"
+      },
+      "count": 6
+    },
+    {
+      "basePredicate": {
+        "tag": "minecraft:prismarine"
+      },
+      "count": 2
+    }
+  ],
+  "energy": 51200,
+  "input": {
+      "basePredicate": {
+        "tag": "c:ingots/netherite"
+      },
+      "count": 6
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "tag": "c:raw_materials/wuffram"
+      },
+      "count": 2
+    }
+  ],
+  "time": 100
+}

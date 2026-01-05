@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "mekanism:metallurgic_infusing",
+  "chemical_input": {
+    "amount": 40,
+    "tag": "mekanism:carbon"
+  },
+  "item_input": {
+    "count": 1,
+    "item": "bwc:raw_tungsten"
+  },
+  "output": {
+    "count": 1,
+    "id": "bwc:tungsten_dust"
+  },
+  "per_tick_usage": false
+}

@@ -1,0 +1,17 @@
+{
+   "neoforge:conditions":[
+      {
+         "type":"neoforge:mod_loaded",
+         "modid":"mekanismgenerators"
+      }
+   ],
+   "type":"mekanism:oxidizing",
+   "input":{
+      "count":1,
+      "tag":"bwc:cell/deuterium"
+   },
+   "output":{
+      "amount":600,
+      "id":"mekanismgenerators:deuterium"
+   }
+}

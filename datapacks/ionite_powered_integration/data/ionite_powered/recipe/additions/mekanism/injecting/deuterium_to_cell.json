@@ -1,0 +1,22 @@
+{
+   "neoforge:conditions":[
+      {
+         "type":"neoforge:mod_loaded",
+         "modid":"mekanism"
+      }
+   ],
+   "type":"mekanism:injecting",
+   "chemical_input":{
+      "amount":1,
+      "chemical":"mekanismgenerators:deuterium"
+   },
+   "item_input":{
+      "count":1,
+      "tag":"bwc:cell/empty"
+   },
+   "output":{
+      "count":1,
+      "id":"bwc:deuterium_cell"
+   },
+   "per_tick_usage":true
+}

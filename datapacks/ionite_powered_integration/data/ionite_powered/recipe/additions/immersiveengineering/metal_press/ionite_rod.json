@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:metal_press",
+  "energy": 3200,
+  "input": {
+    "basePredicate": {
+      "item": "bwc:refined_ionite"
+    },
+    "count": 3
+  },
+  "mold": "immersiveengineering:mold_rod",
+  "result": {
+    "id": "bwc:ionite_rod"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#terralith:volcanic",
+  "features": "bwc:blackstone_ionite_ore_volcanic",
+  "step": "underground_ores"
+}

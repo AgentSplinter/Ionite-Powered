@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "c:ingots/steel"
+    }
+  ],
+  "processing_time": 140,
+  "results": [
+    {
+      "id": "bwc:steel_dust"
+    },
+    {
+      "chance": 0.20,
+      "id": "bwc:steel_dust"
+    }
+  ]
+}

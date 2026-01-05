@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "mekanism:crushing",
+  "input": {
+    "count": 1,
+    "item": "bwc:silver_necklace"
+  },
+  "output": {
+    "count": 5,
+    "id": "bwc:silver_nugget"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "bwc:remove_recipe",
+  "return": true,
+  "category": [
+    "misc"
+  ]
+}
